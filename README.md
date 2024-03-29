@@ -3,7 +3,7 @@
 This is a [Next.js](https://nextjs.org/) boilerplate to be used in a course called [React Avançado](https://reactavancado.com.br/).
 ![ci](https://github.com/React-Avancado/boilerplate-apps-router/workflows/ci/badge.svg)
 
-## What is inside??
+## What is inside???
 
 This project uses lot of stuff as:
 
